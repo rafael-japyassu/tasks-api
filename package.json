@@ -16,7 +16,7 @@
       "express": "^4.15.4",
       "pg": "^7.3.0",
       "reflect-metadata": "^0.1.10",
-      "typeorm": "0.2.24"
+      "typeorm": "0.2.25"
    },
    "scripts": {
       "dev": "nodemon src/index.ts",
